@@ -2,4 +2,4 @@
 
 [![Build Status](https://travis-ci.org/Njaya2019/storemanager.svg?branch=ft-add-product-endpoint-161206503)](https://travis-ci.org/Njaya2019/storemanager)
 
-[![Coverage Status](https://coveralls.io/repos/github/Njaya2019/storemanager/badge.svg?branch= ft-add-product-endpoint-161206503)](https://coveralls.io/github/Njaya2019/storemanager?branch= ft-add-product-endpoint-161206503)
+[![Coverage Status](https://coveralls.io/repos/github/Njaya2019/storemanager/badge.svg?branch= ft-add-product-endpoint-161206503)](https://coveralls.io/github/Njaya2019/storemanager?branch=ft-add-product-endpoint-161206503)
